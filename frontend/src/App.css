@@ -1,0 +1,17 @@
+.ant-list-item-meta-title a {
+  color: #1890FF;
+  font-size: 18px;
+}
+
+.ant-list-item-meta-description {
+  font-size: 12px;
+}
+
+.ant-list-item-meta {
+  width: 100vw;
+}
+
+.ant-list-item:hover {
+  background-color: rgb(241, 241, 241);
+  cursor: pointer;
+}

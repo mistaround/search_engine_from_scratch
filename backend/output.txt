@@ -1,0 +1,219 @@
+Working on port: 45550
+/home/ubuntu/CIS555-SearchEngine/backend/.
+Waiting to handle requests!
+Query For: ukraine
+Query Time: 3802
+https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps.html
+https://osce.usmission.gov/category/ukraine-crisis/
+https://en.wikipedia.org/wiki/Ukraine
+https://blogs.lse.ac.uk/lseih/2020/07/01/there-is-no-ukraine-fact-checking-the-kremlins-version-of-ukrainian-history/
+https://osce.usmission.gov/tag/ukraine/
+https://osce.usmission.gov/tag/russia/
+Make Result Time: 9891
+Query For: computer
+Query Time: 1139
+https://directory.seas.upenn.edu/computer-and-information-science/
+https://directory.seas.upenn.edu/
+https://en.wikipedia.org/wiki/Computer_Pioneer_Award
+https://en.wikipedia.org/wiki/IEEE_Computer_Pioneer_Award
+https://en.wikipedia.org/wiki/Information_technology
+Exception in makeResultFromUrl
+Make Result Time: 9089
+Query For: human
+Query Time: 2585
+https://osce.usmission.gov/category/human-rights/
+https://en.wikipedia.org/wiki/Human_rights
+https://osce.usmission.gov/category/civil-society-and-ngos/
+https://www.ohchr.org/en/resources/educators/human-rights-education-training/summary-national-initiatives-undertaken-within-decade-human-rights-education-1995-2004
+https://www.ohchr.org/en/resources/educators/human-rights-education-training/world-programme-human-rights-education/phase1/national-initiatives/summary
+https://osce.usmission.gov/category/freedom-of-expression/
+Make Result Time: 8146
+Query For: university
+Query Time: 1282
+https://en.wikipedia.org/wiki/Tsinghua_University
+https://journals.aps.org/OutstandingReferees
+https://en.wikipedia.org/wiki/Peking_University
+https://en.wikipedia.org/wiki/Private_university
+https://goldwaterscholarship.gov/campus-representative-locator/
+https://en.wikipedia.org/wiki/Fudan_University
+Make Result Time: 8590
+Query For: Upenn
+Query Time: 330
+https://www.seas.upenn.edu/~pdtb/people.shtml
+https://www.library.upenn.edu/
+https://www.diplomaframe.com/upen-p
+https://aesop.seas.upenn.edu/sogang-upenn-bk21plus-workshop/
+http://www.innoworks.org/newinno/upenn.php?chapter=6&length=1000
+https://accessibility.web-resources.upenn.edu/events/upenn-asl-lecture-series-deaf-people-move-temporal-dimensions
+Make Result Time: 10038
+Query For: cis
+Query Time: 390
+https://priml.upenn.edu/people/
+https://catalog.upenn.edu/undergraduate/programs/computer-science-bse/
+https://aws.amazon.com/marketplace/seller-profile?id=dfa1e6a8-0b7b-4d35-a59c-ce272caee4fc
+https://catalog.upenn.edu/graduate/programs/computer-information-science-phd/
+https://catalog.upenn.edu/undergraduate/programs/computer-science-bas/
+https://unevoc.unesco.org/home/Explore+the+UNEVOC+Network
+Make Result Time: 7364
+Query For: Comedy
+Query Time: 637
+Exception in makeResultFromUrl
+Exception in makeResultFromUrl
+Exception in makeResultFromUrl
+Exception in makeResultFromUrl
+Exception in makeResultFromUrl
+Exception in makeResultFromUrl
+Make Result Time: 656
+Query For: Come
+Query Time: 1367
+https://aws.amazon.com/it/premiumsupport/knowledge-center/?nc2=h_m_ma
+https://www.thecitypodcast.com/
+https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html
+https://aws.amazon.com/it/lightsail/faq/
+https://aws.amazon.com/it/rekognition/faqs/
+https://www.newyorkfed.org/podcast
+Make Result Time: 9951
+Query For: kiss
+Query Time: 654
+https://www.hersheypa.com/
+https://music.amazon.com/artists/B000VZLIOQ/kiss
+https://shop.hersheys.com/gifts/merchandise/home-gifts/
+https://music.amazon.com/artists/B00G9BXSCG/the-cure
+https://news.yahoo.com/tbt-tobey-maguire-said-kissing-170235108.html
+https://shop.hersheys.com/candy-types/
+Make Result Time: 10584
+Query For: kiss me
+Query Time: 2952
+https://aws.amazon.com/premiumsupport/knowledge-center/?nc2=h_m_ma
+https://music.amazon.com/artists/B000VZLIOQ/kiss
+https://music.amazon.com/artists/B00G9BXSCG/the-cure
+https://www.hersheypa.com/
+https://shop.hersheys.com/gifts/merchandise/home-gifts/
+https://news.yahoo.com/tbt-tobey-maguire-said-kissing-170235108.html
+Make Result Time: 8493
+Query For: computer science
+Query Time: 3752
+https://directory.seas.upenn.edu/computer-and-information-science/
+https://en.wikipedia.org/wiki/Computer_Science
+https://directory.seas.upenn.edu/
+https://en.wikipedia.org/wiki/Information_technology
+https://en.wikipedia.org/wiki/Timeline_of_computing_1950%E2%80%931979
+https://en.wikipedia.org/wiki/Edsger_W._Dijkstra
+Make Result Time: 9665
+Query For: computer programming
+Query Time: 1516
+https://www.coursera.org/courses?query=sql
+https://www.coursera.org/courses?query=full%20stack%20web%20development
+https://www.edx.org/learn/computer-programming
+https://www.coursera.org/courses?query=c%20programming
+https://www.laff.com/
+https://directory.seas.upenn.edu/computer-and-information-science/
+Make Result Time: 9231
+Query For: computer architecture
+Query Time: 1604
+https://directory.seas.upenn.edu/computer-and-information-science/
+https://www.gsd.harvard.edu/people/faculty/
+https://en.wikipedia.org/wiki/Category:Architectural_styles
+https://directory.seas.upenn.edu/
+https://en.wikipedia.org/wiki/Revivalism_(architecture)
+https://en.wikipedia.org/wiki/Portal:Architecture
+Make Result Time: 10038
+Query For: my heart
+Query Time: 2523
+https://aws.amazon.com/premiumsupport/knowledge-center/?nc2=h_m_ma
+https://www.mayoclinic.org/diseases-conditions/adult-congenital-heart-disease/symptoms-causes/syc-20355456
+https://www.mayoclinic.org/diseases-conditions/heart-arrhythmia/symptoms-causes/syc-20350668
+Exception in makeResultFromUrl
+Exception in makeResultFromUrl
+https://www.heart.org/en/health-topics/consumer-healthcare/what-is-cardiovascular-disease
+Make Result Time: 6758
+Query For: Final Report
+Query Time: 2435
+https://www.unodc.org/unodc/en/evaluation/reports_year_archive.html
+https://shop.un.org/series
+https://en.unesco.org/programme/mow/documents
+https://en.wikipedia.org/wiki/Wikipedia:Featured_articles
+https://www.imf.org/external/pubs/cat/region.asp
+Exception in makeResultFromUrl
+Make Result Time: 6847
+Query For: last year
+Query Time: 3681
+https://en.wikipedia.org/wiki/Template:Cite_web
+Exception in makeResultFromUrl
+http://today.law.harvard.edu/feed/
+https://en.wikipedia.org/wiki/Template:Cite_book
+https://en.wikipedia.org/wiki/List_of_members_of_the_United_States_Congress_by_longevity_of_service
+https://www.fao.org/statistics/methods-and-standards/en/
+Make Result Time: 10105
+Query For: summer semester
+Query Time: 1326
+https://catalog.upenn.edu/pennbook/intercollegiate-athletics/
+https://www.gse.harvard.edu/students/handbook/tuition-fees
+https://global.upenn.edu/pennabroad/families
+https://online.seas.upenn.edu/degrees/student-services/student-handbook/
+https://www.pennesac.com/blog
+https://gsas.harvard.edu/student-life/harvard-resources/mbta-semester-pass-program
+Make Result Time: 8718
+Query For: apple music online
+Query Time: 2193
+Exception in makeResultFromUrl
+Exception in makeResultFromUrl
+Exception in makeResultFromUrl
+https://www.apple.com/ipad/
+https://www.apple.com/mac/
+Exception in makeResultFromUrl
+Make Result Time: 3583
+Query For: computer science
+Query For: computer science journal
+Query Time: 4051
+https://directory.seas.upenn.edu/computer-and-information-science/
+Query Time: 5217
+https://en.wikipedia.org/wiki/Computer_Science
+https://directory.seas.upenn.edu/
+https://directory.seas.upenn.edu/computer-and-information-science/
+https://en.wikipedia.org/wiki/Computer_Science
+https://directory.seas.upenn.edu/
+https://en.wikipedia.org/wiki/Information_technology
+https://cemb.upenn.edu/research/publications/
+Exception in makeResultFromUrl
+https://en.wikipedia.org/wiki/Timeline_of_computing_1950%E2%80%931979
+https://en.wikipedia.org/wiki/The_Wall_Street_Journal
+Make Result Time: 7080
+https://en.wikipedia.org/wiki/Edsger_W._Dijkstra
+Make Result Time: 10423
+Query For: computer science review
+Query Time: 6811
+https://directory.seas.upenn.edu/computer-and-information-science/
+https://en.wikipedia.org/wiki/Computer_Science
+https://directory.seas.upenn.edu/
+https://www.nextbookusa.com/contact/
+https://en.wikipedia.org/wiki/Information_technology
+https://en.wikipedia.org/wiki/Timeline_of_computing_1950%E2%80%931979
+Make Result Time: 7054
+Query For: university of pennsylvania
+Query Time: 5310
+https://en.wikipedia.org/wiki/University_of_Pennsylvania
+https://goldwaterscholarship.gov/2022-goldwater-scholars-listed-by-institution-state/
+https://en.wikipedia.org/wiki/University_of_Michigan
+https://en.wikipedia.org/wiki/Tsinghua_University
+https://goldwaterscholarship.gov/2020-goldwater-scholars-by-institution-state/
+https://en.wikipedia.org/wiki/University_of_Sydney
+Make Result Time: 11112
+Query For: university of california
+Query Time: 5308
+https://goldwaterscholarship.gov/2022-goldwater-scholars-listed-by-institution-state/
+https://en.wikipedia.org/wiki/University_of_Michigan
+https://en.wikipedia.org/wiki/Tsinghua_University
+https://goldwaterscholarship.gov/2020-goldwater-scholars-by-institution-state/
+https://en.wikipedia.org/wiki/University_of_Sydney
+https://goldwaterscholarship.gov/2021-goldwater-scholars-listed-by-institution-state/
+Make Result Time: 9709
+Query For: least square regression
+Query Time: 3979
+https://catalog.upenn.edu/courses/stat/
+https://statistics.wharton.upenn.edu/programs/undergraduate/course-descriptions/
+https://statistics.wharton.upenn.edu/programs/mba/course-descriptions/
+https://www.harvardsquare.com/
+https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps.html
+https://en.wikipedia.org/wiki/Town_square
+Make Result Time: 7916
