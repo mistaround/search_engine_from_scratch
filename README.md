@@ -1,4 +1,4 @@
-# CIS555-SearchEngine
+#SearchEngine
 
 ## Features implemented
 Implemented the distributed crwaler, the forward/inverted index, pagerank, and front-end search.
